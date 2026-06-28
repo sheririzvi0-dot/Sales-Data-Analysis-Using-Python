@@ -1,0 +1,35 @@
+ Sales Analysis Report
+
+=====================================
+Total Sales:
+456000
+Best Performing Category:
+Electronics
+Monthly Sales:
+Date
+2023-01-31    35450
+2023-02-28    44060
+2023-03-31    28990
+2023-04-30    33870
+2023-05-31    53150
+2023-06-30    36715
+2023-07-31    35465
+2023-08-31    36960
+2023-09-30    23620
+2023-10-31    46580
+2023-11-30    34920
+2023-12-31    44690
+2024-01-31     1530
+Freq: ME, Name: Total Amount, dtype: int64
+Quarterly Sales:
+Date
+2023-03-31    108500
+2023-06-30    123735
+2023-09-30     96045
+2023-12-31    126190
+2024-03-31      1530
+Freq: QE-DEC, Name: Total Amount, dtype: int64
+=====================================
+Project Completed  Successfully!
+Charts saves as PNG files.
+Summary saved as summary.txt
